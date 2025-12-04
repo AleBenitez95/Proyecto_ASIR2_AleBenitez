@@ -7,7 +7,7 @@ Si 2023 fue el año de Málaga en los titulares, 2024-2025 está siendo el año 
 Lo más relevante: Sevilla ha adelantado a Málaga en número de empresas tecnológicas activas (251 frente a 234 según datos de El Referente en 2025), aunque Málaga sigue ganando en facturación total por el tamaño de sus multinacionales.
 
 
-![techpark](/UD1/img/ud1_1.jpeg)
+![techpark](/UD1/img/ud1_1.jpg)
 
 ## Datos Clave del Ecosistema (2024-2025)
 
