@@ -65,8 +65,14 @@ ProfesionalCloud es una empresa que provee servicios cloud (Cloud Service Provid
 
 # Identificición de necesidades tecnológicas
 
-El reciento TechPark necesita urgentemente administradores de sistemas capaces de gestionar la convergencia entre las redes IT tradicionales y las nuevas redes OT (Operational Technology). Es decir, no solo gestionar ordenadores, sino administrar la red de sensores y servidores que controlarán la energía y la seguridad física del recinto.
+ ### Movilidad y Aparcamiento (El "Talón de Aquiles")
+Es, con diferencia, la queja nº 1 de trabajadores y empresas.
 
+El conflicto del aparcamiento: Hay una tensión enorme. Por un lado, se están eliminando plazas de aparcamiento en superficie para "recuperar espacio para el peatón" y zonas verdes; por otro, el transporte público (aunque ha mejorado) se percibe como insuficiente para mover a las 30.000 personas que entran a diario.
+
+Zona de Bajas Emisiones (ZBE): La entrada en vigor de la ZBE en la Cartuja ha generado una necesidad urgente de renovación de flotas para muchas empresas de logística y servicios que operan allí, ya que los vehículos antiguos tienen restringido el paso.
+
+Transporte de "última milla": Falta una conexión interna fluida. Si llegas en tren (Cercanías) a la estación de Cartuja, desplazarte hasta las zonas más alejadas (zona norte/Torre Sevilla) sigue siendo incómodo si no tienes patinete o bici propia.
 
 
 
@@ -80,8 +86,7 @@ El reciento TechPark necesita urgentemente administradores de sistemas capaces d
 # Oportunidad y viabilidad del proyecto  
 
 
-
-Detectamos una "brecha de modernización" en el Parque Científico y Tecnológico Cartuja. Aunque el entorno promueve la innovación, muchas empresas instaladas en edificios de la época Expo 92 o posteriores siguen operando con infraestructura "On-Premise" (servidores físicos locales) obsoleta.
+Al analizar la anterior falla, la migración a la nube podría ser una solución, el trabajo hybrido agilizaría las tensiones que hay sobre las dispustas en la movilidad al recinto.
 
 Esto agilizaría problemas como el soporte eléctrico del parque y aumentaría la Integridad y Seguridad de la información utilizada por las empresas.
 
@@ -110,27 +115,7 @@ La migración de la infraestructura al entorno Cloud se ha diseñado cumpliendo 
 
 
 Guion inicial del proyecto
-Hoja de ruta para modernizar la infraestructura del cliente mediante una migración integral a una nube privada basada en Debian GNU/Linux.
 
-Fase 1: Auditoría Previa
-Inventario del hardware "On-Premise" obsoleto y análisis de compatibilidad de aplicaciones.
-
-Evaluación de requisitos para la red OT (sensores) del parque.
-
-Fase 2: Despliegue Infraestructura Debian
-Provisionamiento de servidores VPS con Debian Stable para garantizar máxima estabilidad y seguridad (LTS).
-
-Bastionado del sistema (Hardening) y configuración de redes definidas por software.
-
-Fase 3: Migración de Servicios
-Traslado de datos y aplicaciones al entorno Cloud Debian (Servidores web, Bases de datos, Samba).
-
-Virtualización de sistemas heredados incompatibles mediante KVM sobre el host Debian.
-
-Fase 4: Operativa y Mantenimiento
-Implementación de monitorización nativa y gestión remota segura (SSH/VPN).
-
-Automatización de copias de seguridad (Backups) y scripts de mantenimiento.
 
 
 
