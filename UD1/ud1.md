@@ -68,11 +68,11 @@ ProfesionalCloud es una empresa que provee servicios cloud (Cloud Service Provid
  ### Movilidad y Aparcamiento (El "Talón de Aquiles")
 Es, con diferencia, la queja nº 1 de trabajadores y empresas.
 
-El conflicto del aparcamiento: Hay una tensión enorme. Por un lado, se están eliminando plazas de aparcamiento en superficie para "recuperar espacio para el peatón" y zonas verdes; por otro, el transporte público (aunque ha mejorado) se percibe como insuficiente para mover a las 30.000 personas que entran a diario.
+***El conflicto del aparcamiento:*** Hay una tensión enorme. Por un lado, se están eliminando plazas de aparcamiento en superficie para "recuperar espacio para el peatón" y zonas verdes; por otro, el transporte público (aunque ha mejorado) se percibe como insuficiente para mover a las 30.000 personas que entran a diario.
 
-Zona de Bajas Emisiones (ZBE): La entrada en vigor de la ZBE en la Cartuja ha generado una necesidad urgente de renovación de flotas para muchas empresas de logística y servicios que operan allí, ya que los vehículos antiguos tienen restringido el paso.
+***Zona de Bajas Emisiones (ZBE):*** La entrada en vigor de la ZBE en la Cartuja ha generado una necesidad urgente de renovación de flotas para muchas empresas de logística y servicios que operan allí, ya que los vehículos antiguos tienen restringido el paso.
 
-Transporte de "última milla": Falta una conexión interna fluida. Si llegas en tren (Cercanías) a la estación de Cartuja, desplazarte hasta las zonas más alejadas (zona norte/Torre Sevilla) sigue siendo incómodo si no tienes patinete o bici propia.
+***Transporte de "última milla":*** Falta una conexión interna fluida. Si llegas en tren (Cercanías) a la estación de Cartuja, desplazarte hasta las zonas más alejadas (zona norte/Torre Sevilla) sigue siendo incómodo si no tienes patinete o bici propia.
 
 
 
@@ -117,7 +117,17 @@ La migración de la infraestructura al entorno Cloud se ha diseñado cumpliendo 
 Guion inicial del proyecto
 
 
+**Objetivo Principal:** Habilitar un modelo de trabajo híbrido/remoto seguro para reducir drásticamente la necesidad de desplazamiento y aparcamiento en el recinto (principal problema detectado), migrando la infraestructura física a la nube.
 
+### Fases de Ejecución:
+
+***Auditoría:*** Análisis de servidores físicos y dependencia de la oficina actual.
+
+***Migración a ProfesionalCloud:*** Traslado de datos a Servidores Virtuales (VPS) y cambio de telefonía fija a VoIP.
+
+***Habilitación Remota:*** Configuración de escritorios virtuales y VPNs para que la plantilla opere desde casa.
+
+***Valor Diferencial:*** Se soluciona el problema de movilidad de los empleados y se elimina el riesgo de cortes de luz o fallos físicos en el edificio de la Cartuja.
 
 
 ## Enlaces a recursos de la unidad
