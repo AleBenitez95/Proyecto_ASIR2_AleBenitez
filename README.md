@@ -18,17 +18,17 @@
 
 ### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./UD1/ud1.md)
 
-[1. Análisis del sector tecnológico](./UD1/analisis.md)
+1. Análisis del sector tecnológico
 
-[2. Selección de la empresa o contexto de trabajo](./UD1/empresa.md)
+2. Selección de la empresa o contexto de trabajo
 
-[3. Identificación de necesidades tecnológicas](./UD1/necesidades.md)
+3. Identificación de necesidades tecnológicas
 
-[4. Oportunidades y viabilidad del proyecto](./UD1/viabilidad.md)
+4. Oportunidades y viabilidad del proyecto
 
-[5. Obligaciones legales y normativas](./UD1/legal.md)
+5. Obligaciones legales y normativas
 
-[6. Guion inicial del proyecto](./UD1/guion.md)
+6. Guion inicial del proyecto
 
 ---
 
