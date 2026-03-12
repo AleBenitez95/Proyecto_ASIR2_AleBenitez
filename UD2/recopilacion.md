@@ -4,9 +4,9 @@
 | Herramienta / Componente | Función |
 | :--- | :--- |
 | **pfSense** | Firewall y enrutador para la seguridad perimetral y gestión del tráfico de la red. |
-| **DMZ** | Zona Desmilitarizada; subred aislada que expone servicios a Internet protegiendo la red interna. |
-| **INTERNA** | Red de área local (LAN) privada y segura donde operan los usuarios y recursos confidenciales. |
-| **MONITOREO** | Segmento o entorno dedicado a las herramientas de supervisión del estado y seguridad de la infraestructura. |
+| **DMZ (VLAN 10)** | Zona Desmilitarizada; subred aislada que expone servicios a Internet protegiendo la red interna. |
+| **INTERNA (VLAN 20)** | Red de área local (LAN) privada y segura donde operan los usuarios y recursos confidenciales. |
+| **MONITOREO (VLAN 30)** | Segmento o entorno dedicado a las herramientas de supervisión del estado y seguridad de la infraestructura. |
 | **VPN** | Red Privada Virtual (Virtual Private Network) para permitir el acceso remoto cifrado a la red corporativa. |
 | **Portainer** | Interfaz gráfica (GUI) para la gestión y administración simplificada de contenedores Docker o Kubernetes. |
 | **Nginx Proxy Manager** | Gestor de proxy inverso para redirigir el tráfico web entrante y administrar certificados SSL. |
