@@ -1,7 +1,7 @@
 
 # Recoplicación de información técnica
 
-|TECNOLOGÍA|||
+| TECNOLOGÍA |||
 |----------|------|
 |pfSense|
 |DMZ|
